@@ -1,3 +1,15 @@
+<h1 align="center">Hey, I'm Itika Sarkar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @itika1
 - 👀 I’m interested in Front-end web development, python coding, machine learning, hackathons.
 - 🌱 I’m currently learning Nodejs to become a full stack developer.
