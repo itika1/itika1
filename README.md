@@ -8,17 +8,18 @@
 
 💖 I’m contributing to [**GirlScript Foundation**](https://github.com/girlscript/winter-of-contributing) as a open-source contributor for Javascript and Python. 
 
-👩‍💻 Nowadays, I’m learning React Js, MongoDB, and Next.js.  
+👩‍💻 Nowadays, I’m learning React Js, MongoDB, and Next.js to become a full stack developer.  
 
+👀 I’m interested in Front-end web development, python coding, machine learning, hackathons.
+
+💞️ I’m looking to collaborate on React js projects
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
 <br> 
 
-- 👀 I’m interested in Front-end web development, python coding, machine learning, hackathons.
-- 🌱 I’m currently learning Nodejs to become a full stack developer.
-- 💞️ I’m looking to collaborate on React js projects
-- 📫 How to reach me - email me itikaitzme@gmail.com
+- 
+- 📫 How to reach me - email me itikai
 
 <!---
 itika1/itika1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
