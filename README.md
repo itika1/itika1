@@ -15,14 +15,6 @@
 
 <br> 
 
-
-
-
-
-
-
-
-- 👋 Hi, I’m @itika1
 - 👀 I’m interested in Front-end web development, python coding, machine learning, hackathons.
 - 🌱 I’m currently learning Nodejs to become a full stack developer.
 - 💞️ I’m looking to collaborate on React js projects
