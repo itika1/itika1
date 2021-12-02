@@ -19,7 +19,7 @@
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
-<br> 
+<br>
 
 <!---
 itika1/itika1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
