@@ -2,6 +2,7 @@
 <h2 align="center"><i><strong>'There's no place like 127.0.0.1'</strong></i></h2>
 <img src="Profile.gif" alt="welcome gif">
 <br>
+<h2> 👋 About Me </h2>
 👩‍🎓 Hey! I'm Itika, a 22 year old software engineer who is passionate about making open-source more accessible, creating technology to elevate people, building community. My preferred pronouns are **she/her** .
 
 :octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
