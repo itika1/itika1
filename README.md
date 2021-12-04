@@ -21,6 +21,12 @@
 
 <br>
 
+## 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
 <!---
 itika1/itika1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
