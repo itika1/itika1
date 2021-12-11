@@ -49,6 +49,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=MicrosoftStockPricePrediction&show_owner=true)](https://github.com/itika1/MicrosoftStockPricePrediction)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=ecommerce_flipkart&show_owner=true)](https://github.com/itika1/ecommerce_flipkart)
+
 <!---
 itika1/itika1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
