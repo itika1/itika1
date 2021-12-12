@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itika1&layout=compact)](https://github.com/itika1/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/itika1/github-readme-stats)
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/itika1/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=MicrosoftStockPricePrediction&show_owner=true)](https://github.com/itika1/MicrosoftStockPricePrediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=ecommerce_flipkart&show_owner=true)](https://github.com/itika1/ecommerce_flipkart) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=PathShala&show_owner=true)](https://github.com/itika1/PathShala) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=DriveSealProject&show_owner=true)](https://github.com/itika1/DriveSealProject) 
