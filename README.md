@@ -47,6 +47,9 @@
   
   [![Repos Badge](https://badges.pufler.dev/repos/itika1)](https://badges.pufler.dev)
   [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
+  [![Updated Badge](https://badges.pufler.dev/updated/itika1/itika1)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/)](https://badges.pufler.dev)
+
 
 
   
