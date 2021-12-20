@@ -45,6 +45,11 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
+  [![Repos Badge](https://badges.pufler.dev/repos/itika1)](https://badges.pufler.dev)
+  [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
+
+
+  
 ![Itika's GitHub stats](https://github-readme-stats.vercel.app/api?username=itika1&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itika1&layout=compact)](https://github.com/itika1/github-readme-stats)
@@ -53,6 +58,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=MicrosoftStockPricePrediction&show_owner=true)](https://github.com/itika1/MicrosoftStockPricePrediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=ecommerce_flipkart&show_owner=true)](https://github.com/itika1/ecommerce_flipkart) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=PathShala&show_owner=true)](https://github.com/itika1/PathShala) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itika1&repo=DriveSealProject&show_owner=true)](https://github.com/itika1/DriveSealProject) 
+
 <!---
 itika1/itika1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
