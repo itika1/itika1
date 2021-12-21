@@ -50,7 +50,7 @@
   [![Updated Badge](https://badges.pufler.dev/updated/itika1/itika1)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/itika1)](https://badges.pufler.dev)
   [![Visits Badge](https://badges.pufler.dev/visits/itika1/itika1)](https://badges.pufler.dev)
-
+  [![Years Badge](https://badges.pufler.dev/years/itika1)](https://badges.pufler.dev)
 
 
 
