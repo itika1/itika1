@@ -17,7 +17,7 @@
 
 💞️ I’m looking to collaborate on React js projects
 
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+⚡ Fun fact: I have an immense interest on software, but most of the credit goes to Google and Stack Overflow 😪
 
 <br>
 
