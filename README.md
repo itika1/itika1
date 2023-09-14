@@ -5,13 +5,25 @@
 <h2> 👋 About Me </h2>
 
 <a href="https://www.linkedin.com/in/itikasarkar21" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Itika, a 22 year old software engineer who is passionate about making open-source more accessible, creating technology to elevate people, building community. My preferred pronouns are **she/her** .
+👩‍🎓 Hey! I'm Itika, a passionate Software Engineer with over 1.5 years of experience, specializing in the intersection of Information Technology, Oil and Gas, and Data Science and Machine Learning. Based in Chennai, India, I'm currently working with the talented team at Wood Group Kenny.
+ My preferred pronouns are **she/her** .
 <br>
 :octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
 
-💖 I’m contributing to [**GirlScript Foundation**](https://github.com/girlscript/winter-of-contributing) as a open-source contributor for Javascript and Python. 
+## 💼 Professional Journey
 
-👩‍💻 Nowadays, I’m learning React Js, MongoDB, and Next.js to become a full stack developer.  
+- 🌐 **Current Role:** Software Engineer - Digital Integration at Wood Group Kenny, where I'm focused on connecting software systems using Python and developing machine learning models.
+- 🌐 **Internship Experience:** I've honed my skills during a Software Engineer Internship at Persistent Systems, India, and achieved valuable insights into the tech industry.
+
+## 🌟 Key Expertise
+
+- 🧠 **Computer Science Fundamentals & Programming:** Proficient in a range of programming languages, including Python and Java.
+- 🔐 **Computer Networks & Security:** Knowledgeable in network infrastructure and security protocols.
+- 🤖 **Machine Learning:** Skilled in algorithm development, data modeling, evaluation, and predictive modeling.
+- 📊 **Data & Quantitative Analysis:** A knack for extracting actionable insights from complex datasets.
+- 💾 **Databases and Servers:** Experienced in SQL, DBMS, and RDBMS, ensuring efficient data management.
+
+👩‍💻 Nowadays, I’m learning System Design, Design Pattern.  
 
 👀 I’m interested in Front-end web development, python coding, machine learning, hackathons.
 
@@ -35,9 +47,15 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![PowerBI](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi)
+  ![PowerApps](https://img.shields.io/badge/-PowerApps-333333?style=flat&logo=powerapps)
+  ![Azure Synapse Analytics](https://img.shields.io/badge/-AzureSynapseAnalytics-333333?style=flat&logo=azuresynapseanalytics)
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
